@@ -1,2 +1,2 @@
 # bimm_143
-My work for bimm 143 at UCSD 
+My work for BIMM143 at UC San Diego.
