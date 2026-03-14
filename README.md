@@ -10,7 +10,7 @@ My work for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego.
 - [Class 7](class07/Untitled.html)
 - [Class 8](Class08/Class08.html)
 - [Class 9](Class%2009%20Mini%20Project/Untitled.html)
-- [Class 10](Class%2010%2012.05.56PM/Untitled.html)
+- [Class 10](Class10/Untitled.html)
 - [Class 11](class11/class11.html)
 - [Class 12](class12/class12.html)
 - [Class 13](class13/class13.html)
