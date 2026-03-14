@@ -12,7 +12,6 @@ We need to install **tximport** package for straightforward import of Kallisto r
 
 ```{r}
 
-setwd("~/Desktop/class17_results")
 dir()
 
 ```
