@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # BIMM 143
 
 This is my work for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego in winter 2026 quarter.
