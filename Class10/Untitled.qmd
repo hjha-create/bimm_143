@@ -2,6 +2,7 @@
 title: "Class 10 Structural Bioinformatics 1"
 author: "Harshita Jha (PID: A17350910)"
 format: html
+prefer-html: true
 ---
 
 ## PDB Statistics
