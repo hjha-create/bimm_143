@@ -11,7 +11,7 @@ Please find the links to all my work here:
 - [Class 2](lab02%20(1).pdf)
 - [Class 3](lab03.pdf)
 - [Class 4](Lab4(Week2)/class04.md)
-- [Class 5](class05/CLASS05.md)
+- [Class 5](https://github.com/hjha-create/bimm_143/blob/main/class05/CLASS05.md)
 - [Class 6](Class06/Untitled.md)
 - [Class 7](class07/Untitled.md)
 - [Class 8](Class08/Class08.md)
