@@ -1,7 +1,7 @@
 ---
 title: "Class 14 Mini Project: Pathway Analysis from RNA-Seq Results"
 author: "Harshita Jha (PID: A17350910)"
-format: pdf
+format: html
 toc: true
 ---
 
