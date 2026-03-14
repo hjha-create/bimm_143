@@ -3,7 +3,7 @@ title: "class15"
 format: html
 ---
 ```{r}
-b <- read.table("~/Desktop/Class15/mm-second.x.zebrafish.tsv", sep="\t", header=FALSE)
+b <- read.table("mm-second.x.zebrafish.tsv", sep="\t", header=FALSE)
 colnames(b) <- c("qseqid","sseqid","pident","length","mismatch","gapopen",
                  "qstart","qend","sstart","send","evalue","bitscore")
 
