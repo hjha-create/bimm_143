@@ -7,7 +7,7 @@ Please find the links to all my work here:
 - [Class 2](lab02%20(1).pdf)
 - [Class 3](lab03.pdf)
 - [Class 4](Lab4(Week2)/class04.html)
-- [Class 5](class05/CLASS05.html)
+- [Class 5](class05/CLASS05.md)
 - [Class 6](Class06/Untitled.html)
 - [Class 7](class07/Untitled.html)
 - [Class 8](Class08/Class08.html)
