@@ -1,6 +1,8 @@
 # BIMM_143
-My work for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego.
 
+This is my work for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego in winter 2026 quarter.
+
+Please find the links to all my work here: 
 - [Class 1](lab01.pdf)
 - [Class 2](lab02%20(1).pdf)
 - [Class 3](lab03.pdf)
