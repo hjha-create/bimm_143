@@ -1,0 +1,25 @@
+---
+title: "class15"
+format: html
+---
+```{r}
+b <- read.table("~/Desktop/Class15/mm-second.x.zebrafish.tsv", sep="\t", header=FALSE)
+colnames(b) <- c("qseqid","sseqid","pident","length","mismatch","gapopen",
+                 "qstart","qend","sstart","send","evalue","bitscore")
+
+hist(b$bitscore, breaks=30)
+plot(b$pident, b$bitscore, pch=16, cex=0.3)
+plot(b$pident * (b$qend - b$qstart), b$bitscore, pch=16, cex=0.3)
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(b, aes(pident, bitscore)) + geom_point(alpha=0.1) 
+```
+
+```{r}
+ggplot(b, aes((b$pident * (b$qend - b$qstart)), bitscore)) + geom_point(alpha=0.1) + geom_smooth()
+
+```
+
